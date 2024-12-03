@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FornecePro_Com_Foto.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FornecePro_Com_Foto.props" />
+</Project>
